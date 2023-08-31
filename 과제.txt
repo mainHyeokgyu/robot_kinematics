@@ -1,0 +1,7 @@
+관절 길이 l=1m ,l2=2m
+       각도 theta=45, theta2=45
+
+dtheta= 2rad/s dtheta2=2rad/s 끝점 속도 벡터 
+Pxdot=2rad/s Pydot=3rad/s, 관절 각속도
+Fx=2N, Fy=3N 관절 토크
+타우=2Nm, 타우2=3Nm 끝점 힘벡터
